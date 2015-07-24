@@ -19,7 +19,7 @@ This application consists of the following files:
 
 All `.m` package files are generated automatically from the corresponding `.nb` files (by saving them inside Mathematica), which are better documented. The `.pdf` files are printouts of the package notebooks.
 
------
+--------
 
 This software was developed as an aid for the research presented in
 
@@ -33,6 +33,6 @@ If this software is useful for your research, please cite either or both papers,
 
 > E. Pisanty. QuODD: Quantum Orbits Dynamic Dashboard. https://github.com/episanty/QuODD (2015).
 
----
+------
 
 This software is available under the MIT license, with the exception of the file `Quantum Orbits Dynamic Dashboard.cdf`, which is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) license due to restrictions of that format.
